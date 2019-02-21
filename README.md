@@ -1,2 +1,2 @@
 # my_master
-我的测试分支
+This is my test master.
