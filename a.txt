@@ -2,3 +2,8 @@ This is a text file.
 I want to learn about git.
 I want to eat something.I want to drink milk.
 This is your dev branch.
+This is muy dev branch. 
+Today is Friday.
+Don't rain.
+This is dev3.
+
